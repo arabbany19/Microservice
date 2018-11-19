@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\Bootcamp20.Micro.DataAccess.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\Bootcamp20.Micro.DataAccess.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\Bootcamp20.Micro.DataAccess.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\Bootcamp20.Micro.Core.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\Bootcamp20.Micro.Core.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\obj\Debug\Bootcamp20.Micro.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\obj\Debug\Bootcamp20.Micro.DataAccess.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\obj\Debug\Bootcamp20.Micro.DataAccess.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\obj\Debug\Bootcamp20.Micro.DataAccess.Migrations.addingModelSupp.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Bootcamp20.Micro\Bootcamp20.Micro.DataAccess\obj\Debug\Bootcamp20.Micro.DataAccess.csproj.GenerateResource.Cache

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Bootcamp20.Micro.DataAccess.Models.Supplier>
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdministrator.cshtml";
+    ViewBag.Title = "Index";
+}
+
+@section scripts{
+    <script src="~/Content/Admin/assets/plugins/sweetalert/sweetalert.min.js"></script>
+    <link href="~/Content/Admin/assets/plugins/sweetalert/sweetalert.css" rel="stylesheet" />
+    <script src="~/Scripts/JsIndex.js"></script>
+}
+
+<div class="row page-titles">
+    <div class="col-md-6 col-8 align-self-center">
+        <h3 class="text-themecolor m-b-0 m-t-0">Data Supplier</h3>
+        <ol class="breadcrumb">
+            <li class="text-dark">Home</li>
+        </ol>
+    </div>
+    <div class="col-md-6 col-4 align-self-center">
+        <button class="right-side-toggle waves-effect waves-light btn-info btn-circle btn-sm pull-right m-l-10"><i class="ti-settings text-white"></i></button>
+        @Html.ActionLink("  Create New", "Insert", "", new { @class = "btn pull-right hidden-sm-down btn-success mdi mdi-plus-circle" })
+    </div>
+</div>
+
+<table class="table color-table muted-table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+
+            <td>
+                @Html.ActionLink(" ", "Update", new { id = item.Id }, new { @class="icon-pencil" }) |
+                <button onclick='check(@item.Id)' class = "icon-trash">@Html.ActionLink(" ", "Delete", new { id = item.Id })</button>
+            </td>
+        </tr>
+    }
+</table>
